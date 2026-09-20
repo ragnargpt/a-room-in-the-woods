@@ -1,0 +1,19 @@
+{
+  "unit": "metres",
+  "dimensions": [
+    4.6,
+    3.4,
+    2.6
+  ],
+  "exactDuplicateFaces": [],
+  "visualQARequired": true,
+  "items": [
+    "architecture",
+    "cabinet",
+    "ceiling",
+    "chair",
+    "desk",
+    "plant",
+    "room"
+  ]
+}

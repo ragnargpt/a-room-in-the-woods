@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "name": "The quiet room · example",
+  "language": "en",
+  "stage": "layout",
+  "layoutConfirmed": true,
+  "assumptions": ["This is an invented example, not a reconstruction of the creator’s room."],
+  "nextStep": "Use a separate workspace and your own photos to create your room.",
+  "location": {"name": "London", "lat": 51.5074, "lon": -0.1278, "timeZone": "Europe/London"},
+  "room": {
+    "width": 4.6, "depth": 3.4, "height": 2.6,
+    "furniture": [
+      {"id": "desk", "type": "desk", "name": {"en": "Writing desk", "zh": "书桌"}, "x": -0.45, "y": 0.5, "width": 1.7, "depth": 0.7, "height": 0.74},
+      {"id": "chair", "type": "chair", "name": {"en": "Desk chair", "zh": "书桌椅"}, "x": -0.45, "y": -0.3},
+      {"id": "cabinet", "type": "cabinet", "name": {"en": "Oak cabinet", "zh": "木柜"}, "x": -1.82, "y": 0.15, "width": 0.65, "depth": 1.2, "height": 0.9},
+      {"id": "plant", "type": "plant", "name": {"en": "Window plant", "zh": "窗边植物"}, "x": 1.65, "y": 1.06}
+    ]
+  },
+  "environment": true,
+  "model": null,
+  "objects": [],
+  "referenceNotes": []
+}

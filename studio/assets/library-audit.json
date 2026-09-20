@@ -1,0 +1,31 @@
+{
+  "objects": 2778,
+  "images": [
+    "birch-0-color.jpg",
+    "birch-0-normal.png",
+    "birch-0-rough.jpg",
+    "birch-2-color.jpg",
+    "birch-2-normal.png",
+    "birch-2-rough.jpg"
+  ],
+  "personal_room": false,
+  "family_characters": false,
+  "reference_photos": false,
+  "branded_artwork": false,
+  "items": [
+    "boat",
+    "camp_seats",
+    "campfire",
+    "dock",
+    "environment",
+    "hammock",
+    "mooring",
+    "tent",
+    "wood_chair"
+  ],
+  "origin": "Original procedural geometry from the creator\u2019s woodland project",
+  "shared_meshes": 2512,
+  "unique_meshes": 266,
+  "bytes": 19627964,
+  "gzip_bytes": 6284675
+}

@@ -1,0 +1,14 @@
+workspace/
+.versions/
+.recovery/
+exports/
+output/
+node_modules/
+__pycache__/
+*.pyc
+*.blend1
+.DS_Store
+.env*
+!.env.example
+*.log
+

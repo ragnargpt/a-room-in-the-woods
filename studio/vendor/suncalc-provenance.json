@@ -1,0 +1,9 @@
+{
+  "repo": "https://github.com/mourner/suncalc",
+  "commit": "0ed9f4981b3e2f7a6bde7b340eb965488128c3c1",
+  "version": "2.0.2",
+  "license": "BSD-2-Clause",
+  "source": "https://github.com/mourner/suncalc/blob/0ed9f4981b3e2f7a6bde7b340eb965488128c3c1/index.js",
+  "sha256": "50c9b9030c42e8cbb7e2e5d37c59e998a027ea50ccdedb23f94889e55bfabd47",
+  "license_file": "SUNCALC-LICENSE.txt"
+}

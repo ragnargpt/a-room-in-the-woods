@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-20",
+  "browser": "Codex in-app Chromium",
+  "night": {
+    "solarDarkness": 1,
+    "cricketGains": [
+      0.1397496610879898,
+      0.10987482964992523,
+      0.0698748305439949
+    ],
+    "audioContext": "running"
+  },
+  "hiddenCampfire": {
+    "light": 0,
+    "audio": 0
+  },
+  "pausedWaterTimeUnchanged": true,
+  "hiddenLake": true,
+  "muted": true,
+  "englishAndChinese": true,
+  "onboardingViewportChecks": [
+    {
+      "width": 1440,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "horizontalOverflow": false
+    }
+  ]
+}
