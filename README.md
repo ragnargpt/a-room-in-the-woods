@@ -1,10 +1,14 @@
 # A Room in the Woods
 
-**Make your own little room. Give it a forest, a lake, and a little quiet.**
+**Bring your real-life space into a virtual world. Make it a place of your own.**
 
 [简体中文](README.zh-CN.md) · [Start here](docs/en/START_HERE.md) · [Explore the project](docs/PROJECT.md)
 
-![The studio starts with your photos, not somebody else's house](docs/images/welcome.png)
+![A warm personal room reimagined in a quiet woodland at night](docs/images/forest-home-night.png)
+
+*The creator’s woodland home, shown for inspiration. Your project begins with your own real-life room.*
+
+Recreate a space you know: its layout, furniture, materials, and the little details that make it yours. Start with photos and measurements of your real room, then give it a forest, a lake, and a little quiet.
 
 You do not need to know how to model or write code. Bring a few photos of your room and tell Codex what you want. This project gives Codex a creation route, an editable 3D foundation, and a consistent woodland style.
 

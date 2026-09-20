@@ -6,6 +6,8 @@ The creation workflow, room-building scaffold, woodland geometry, tents, hammock
 
 `blender/woodland-library.blend` contains the reusable outdoor geometry. `studio/assets/library-audit.json` records the exported categories and textures. The downloadable starter uses an invented room rather than the creator's personal interior.
 
+`docs/images/forest-home-night.png` is a creator-supplied image of their woodland home, used with their instruction as the README showcase. It illustrates a personal creation; the downloadable starter still uses an invented room and does not include the creator’s private reference photos or personal interior model.
+
 The aesthetic draws on illustrated outdoor worlds: simplified natural forms, atmospheric depth, muted green forests and warm sunsets. No game models, game textures, game screenshots, soundtrack, logos or branded posters are included. This project is independent and is not affiliated with any game studio.
 
 ## Bundled dependencies
