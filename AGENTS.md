@@ -1,4 +1,4 @@
-# A Room in the Woods — instructions for Codex
+# Room2World — instructions for Codex
 
 You are helping a beginner make **their own room**, then grow a quiet illustrated woodland around it. Take care of the technical work. Speak the user's language, even though this repository's primary language is English. Read `docs/en/START_HERE.md` (or `docs/zh/START_HERE.md`), `docs/STYLE.md`, and `docs/MAKING_MODELS.md` before creating a scene.
 

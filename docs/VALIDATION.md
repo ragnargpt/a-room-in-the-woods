@@ -2,6 +2,8 @@
 
 Initial release: **0.1.0**, 2026-09-20.
 
+Brand update: **0.1.1**, 2026-09-20. Verified the Room2World browser title, English/Chinese branding, guide/repository links and refreshed interface screenshots. The 12 automated tests pass; this update does not change the model or rendering pipeline.
+
 ## Verified
 
 - Built the invented sample through the full local CLI → Blender 4.5.3 → packed `.blend` + GLB path in a disposable workspace. Successful build saved a before and an after version. The exported room reports no exact duplicate faces.
@@ -12,7 +14,7 @@ Initial release: **0.1.0**, 2026-09-20.
 - Runtime checks: night audio context running with non-zero cricket gains; hiding a lit campfire sets both its light and fire sound to zero; pausing movement freezes the lake simulation time; hidden lake stays hidden; mute works. See [browser checks](browser-checks.json).
 - Repository release checks: local documentation links, bundled dependency hashes, compressed GLB integrity, absence of private paths, and exclusion of workspace/version files.
 
-Screenshots in `docs/images` come from the actual starter studio. The photo directions diagram is an explanatory illustration. No simulated screenshots of a private conversation are used.
+The interface screenshots in `docs/images` come from the actual starter studio. `forest-home-night.png` is the creator-supplied README showcase image of their personal woodland project. The photo directions diagram is an explanatory illustration. No simulated screenshots of a private conversation are used.
 
 ## Limits to keep clear
 

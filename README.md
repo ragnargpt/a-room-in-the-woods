@@ -1,4 +1,4 @@
-# A Room in the Woods
+# Room2World
 
 **Bring your real-life space into a virtual world. Make it a place of your own.**
 

@@ -189,7 +189,7 @@ class Handler(SimpleHTTPRequestHandler):
         except Exception as e: return self.json(400,{'error':str(e)})
 
 def main():
-    parser=argparse.ArgumentParser(description='A Room in the Woods — local creation tools')
+    parser=argparse.ArgumentParser(description='Room2World — local creation tools')
     sub=parser.add_subparsers(dest='command',required=True)
     p=sub.add_parser('init');p.add_argument('--language',choices=['en','zh'],default='en');p.add_argument('--name')
     sub.add_parser('doctor');sub.add_parser('build');sub.add_parser('status');sub.add_parser('versions')

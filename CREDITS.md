@@ -2,7 +2,7 @@
 
 ## Original work
 
-The creation workflow, room-building scaffold, woodland geometry, tents, hammock, campfire, seating, dock, boat, procedural material textures, illustrated sky, water treatment, synthesized sound and studio interface were developed for A Room in the Woods and its creator's preceding local woodland project. These original source files and assets are distributed under the root MIT license.
+The creation workflow, room-building scaffold, woodland geometry, tents, hammock, campfire, seating, dock, boat, procedural material textures, illustrated sky, water treatment, synthesized sound and studio interface were developed for Room2World and its creator's preceding local woodland project. These original source files and assets are distributed under the root MIT license.
 
 `blender/woodland-library.blend` contains the reusable outdoor geometry. `studio/assets/library-audit.json` records the exported categories and textures. The downloadable starter uses an invented room rather than the creator's personal interior.
 
